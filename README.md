@@ -5,7 +5,7 @@
 **Installation:**
 -
 1. Download and install [Lively Wallpaper](https://www.rocksdanister.com/lively/)
-2. Download this repl as a zip file
+2. Download this repo as a zip file
 3. Find and unzip the file
 4. Open Lively Wallpaper
 5. Select 'Add Wallpaper'
