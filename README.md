@@ -19,6 +19,8 @@
 ![image](image_4.png)
 10. Voila! Your wallpaper is now Conway's Background of Life!
 
+If it did not set it as your wallpaper, click it if it is in the wallpaper list. If it is not in your wallpaper list, try re-adding it. If that fails, join the discord server by clicking on my name (ProfessorFish) in the credits below.
+
 **Customisation and usage:**
 -
 You can access the customisation options by clicking on the three dots next to the wallpaper and selecting 'Customise'
@@ -33,7 +35,7 @@ There are several options for customisation:
 
 **YOU CAN RANDOMISE THE BOARD BY CLICKING ON THE CELL IN THE TOP LEFT CORNER**
 
-*This is incase the board gets boring*
+*This is in case the board gets boring*
 
 # Credits
 
